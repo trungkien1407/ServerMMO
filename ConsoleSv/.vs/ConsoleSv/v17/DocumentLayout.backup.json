@@ -1,0 +1,830 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\network\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\useitemhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\playerinventorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\inventoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\pickupitemhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\grounditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\serverhostwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\buyitemhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\characterquestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\models\\itemandequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\itemdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\cacheditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\services\\interfaces\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\characterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\interfaces\\icharacterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\services\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F9891-8D13-4949-9545-3915CB557A2A}|GameServer.csproj|d:\\hoc tap\\csharp\\consolesv\\gameserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4B8F9891-8D13-4949-9545-3915CB557A2A}|GameServer.csproj|solutionrelative:gameserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F9891-8D13-4949-9545-3915CB557A2A}|GameServer.csproj|d:\\hoc tap\\csharp\\consolesv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8F9891-8D13-4949-9545-3915CB557A2A}|GameServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F9891-8D13-4949-9545-3915CB557A2A}|GameServer.csproj|d:\\hoc tap\\csharp\\consolesv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B8F9891-8D13-4949-9545-3915CB557A2A}|GameServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\createcharacterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\skillruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\getcharinmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\getinventoryhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\itemdatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\questobjectivestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\gameserverhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\interfaces\\iinventoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\questrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\inventoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\skillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\interfaces\\iquestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\talkquesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\models\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\models\\monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\manager\\questcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\models\\characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\handler\\getmonsterinmaphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\npcrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\repo\\interfaces\\inpcrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AFA208-D004-42FC-9ED6-0AB4D684BEB1}|..\\gameserver.core\\Gameserver.core.csproj|d:\\hoc tap\\csharp\\gameserver.core\\dto\\levelexptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B21DD2A-C238-44C9-A975-818C74C9737A}|..\\ServerUIManager\\ServerUIManager.csproj|d:\\hoc tap\\csharp\\serveruimanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Network\\SessionManager.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Network\\SessionManager.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Network\\SessionManager.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Network\\SessionManager.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAlwGcBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:19:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonsterManager.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\MonsterManager.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\MonsterManager.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\MonsterManager.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\MonsterManager.cs",
+              "ViewState": "AgIAAGMCAAAAAAAAAAAjwHECAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:40:37.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UseItemHandle.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\UseItemHandle.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\UseItemHandle.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\UseItemHandle.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\UseItemHandle.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:37:56.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryItemDto.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\InventoryItemDto.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\InventoryItemDto.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\InventoryItemDto.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\InventoryItemDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:26:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\Session.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\Session.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\Session.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\Session.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA0wBIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:28:02.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerInventoryCache.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\PlayerInventoryCache.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\PlayerInventoryCache.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\PlayerInventoryCache.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\PlayerInventoryCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:58:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickupItemHandle.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\PickupItemHandle.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\PickupItemHandle.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\PickupItemHandle.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\PickupItemHandle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:41:57.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroundItem.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\GroundItem.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\GroundItem.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\GroundItem.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\GroundItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:38:11.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharacterQuestData.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\CharacterQuestData.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\CharacterQuestData.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\CharacterQuestData.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\CharacterQuestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:48:58.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServerHostWrapper.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\ServerHostWrapper.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\ServerHostWrapper.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\ServerHostWrapper.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\ServerHostWrapper.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwFkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:36:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuyItemHandle.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\BuyItemHandle.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\BuyItemHandle.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\BuyItemHandle.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\BuyItemHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:56:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemAndEquip.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\ItemAndEquip.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Models\\ItemAndEquip.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\ItemAndEquip.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Models\\ItemAndEquip.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:43:08.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemDataManager.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\ItemDataManager.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\ItemDataManager.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\ItemDataManager.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\ItemDataManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:38:07.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CachedItemData.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\CachedItemData.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\CachedItemData.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\CachedItemData.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\CachedItemData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:37:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CharacterRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\CharacterRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\CharacterRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\CharacterRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\CharacterRepo.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:11:49.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICharacterRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\ICharacterRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\Interfaces\\ICharacterRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\ICharacterRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\Interfaces\\ICharacterRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:11:59.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICharacterService.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Services\\Interfaces\\ICharacterService.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Services\\Interfaces\\ICharacterService.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Services\\Interfaces\\ICharacterService.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Services\\Interfaces\\ICharacterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:10:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\LoginHandler.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\LoginHandler.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\LoginHandler.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwFQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:28:21.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Services\\CharacterService.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Services\\CharacterService.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Services\\CharacterService.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Services\\CharacterService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3QAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:10:07.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SkillDto.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\SkillDto.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\SkillDto.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\SkillDto.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\SkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:36:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\RequestDto.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\RequestDto.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\RequestDto.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:02:48.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CharacterDTO.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\CharacterDTO.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\CharacterDTO.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\CharacterDTO.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\CharacterDTO.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIA6wFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:13:49.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameServer",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\GameServer.csproj",
+              "RelativeDocumentMoniker": "GameServer.csproj",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\GameServer.csproj",
+              "RelativeToolTip": "GameServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T02:53:24.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T17:37:41.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCharacterHandler.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\CreateCharacterHandler.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\CreateCharacterHandler.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\CreateCharacterHandler.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\CreateCharacterHandler.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwGoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:17:57.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SkillRuntime.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\SkillRuntime.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\SkillRuntime.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\SkillRuntime.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\SkillRuntime.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA1wCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:06:12.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\ConsoleSv\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:02:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\SkillManager.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\SkillManager.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\SkillManager.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\SkillManager.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:27:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Context\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\Context\\AppDbcontext.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Context\\AppDbcontext.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\Context\\AppDbcontext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:09:49.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetCharInMap.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\GetCharInMap.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\GetCharInMap.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\GetCharInMap.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\GetCharInMap.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwFgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:36:34.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetInventoryHandle.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\GetInventoryHandle.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\GetInventoryHandle.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\GetInventoryHandle.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\GetInventoryHandle.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:34:47.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemDataRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\ItemDataRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\ItemDataRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\ItemDataRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\ItemDataRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:42:49.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuestObjectiveState.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\QuestObjectiveState.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\QuestObjectiveState.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\QuestObjectiveState.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\QuestObjectiveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:19:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameServerHostedService.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\GameServerHostedService.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\GameServerHostedService.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\GameServerHostedService.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\GameServerHostedService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:34:21.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuestRepository.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\QuestRepository.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\QuestRepository.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\QuestRepository.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\QuestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:46:10.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IInventoryRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\IInventoryRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\Interfaces\\IInventoryRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\IInventoryRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\Interfaces\\IInventoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:47:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InventoryRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\InventoryRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\InventoryRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\InventoryRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\InventoryRepo.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:48:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SkillRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\SkillRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\SkillRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\SkillRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\SkillRepo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:47:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IQuestRepository.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\IQuestRepository.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\Interfaces\\IQuestRepository.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\IQuestRepository.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\Interfaces\\IQuestRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:36:01.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\Quest.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Models\\Quest.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\Quest.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Models\\Quest.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:15:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\QuestManager.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\QuestManager.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\QuestManager.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\QuestManager.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAIwI4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:37:46.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TalkQuestHandler.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\TalkQuestHandler.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\TalkQuestHandler.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\TalkQuestHandler.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\TalkQuestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:37:45.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\NPC.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Models\\NPC.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\NPC.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Models\\NPC.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:03:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Monsters.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\Monsters.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Models\\Monsters.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\Monsters.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Models\\Monsters.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:51:26.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "QuestCacheService.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\QuestCacheService.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Manager\\QuestCacheService.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Manager\\QuestCacheService.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Manager\\QuestCacheService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:36:26.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Characters.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\Characters.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Models\\Characters.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Models\\Characters.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Models\\Characters.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:48:14.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameLoop.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\GameLoop.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\GameLoop.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\GameLoop.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\GameLoop.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv1cAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:08:30.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetMonsterInMapHandler.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\GetMonsterInMapHandler.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Handler\\GetMonsterInMapHandler.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Handler\\GetMonsterInMapHandler.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Handler\\GetMonsterInMapHandler.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:14:05.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NPCRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\NPCRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\NPCRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\NPCRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\NPCRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:08:53.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "INPCRepo.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\INPCRepo.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Repo\\Interfaces\\INPCRepo.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Repo\\Interfaces\\INPCRepo.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Repo\\Interfaces\\INPCRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:07:52.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LevelExpTable.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\LevelExpTable.cs",
+              "RelativeDocumentMoniker": "..\\Gameserver.core\\Dto\\LevelExpTable.cs",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\Gameserver.core\\Dto\\LevelExpTable.cs",
+              "RelativeToolTip": "..\\Gameserver.core\\Dto\\LevelExpTable.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:30:41.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hoc Tap\\Csharp\\ServerUIManager\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ServerUIManager\\appsettings.json",
+              "ToolTip": "D:\\Hoc Tap\\Csharp\\ServerUIManager\\appsettings.json",
+              "RelativeToolTip": "..\\ServerUIManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T13:04:46.469Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
