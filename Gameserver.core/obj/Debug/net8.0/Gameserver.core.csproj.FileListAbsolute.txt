@@ -1,0 +1,12 @@
+D:\Hoc Tap\Csharp\gameserver.core\obj\Debug\net8.0\Gameserver.core.csproj.AssemblyReference.cache
+D:\Hoc Tap\Csharp\gameserver.core\obj\Debug\net8.0\Gameserver.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc Tap\Csharp\gameserver.core\obj\Debug\net8.0\Gameserver.core.AssemblyInfoInputs.cache
+D:\Hoc Tap\Csharp\gameserver.core\obj\Debug\net8.0\Gameserver.core.AssemblyInfo.cs
+D:\Hoc Tap\Csharp\gameserver.core\obj\Debug\net8.0\Gameserver.core.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Csharp\Gameserver.core\bin\Debug\net8.0\Gameserver.core.deps.json
+D:\Hoc Tap\Csharp\Gameserver.core\bin\Debug\net8.0\Gameserver.core.dll
+D:\Hoc Tap\Csharp\Gameserver.core\bin\Debug\net8.0\Gameserver.core.pdb
+D:\Hoc Tap\Csharp\Gameserver.core\obj\Debug\net8.0\Gameserver.core.dll
+D:\Hoc Tap\Csharp\Gameserver.core\obj\Debug\net8.0\refint\Gameserver.core.dll
+D:\Hoc Tap\Csharp\Gameserver.core\obj\Debug\net8.0\Gameserver.core.pdb
+D:\Hoc Tap\Csharp\Gameserver.core\obj\Debug\net8.0\ref\Gameserver.core.dll
